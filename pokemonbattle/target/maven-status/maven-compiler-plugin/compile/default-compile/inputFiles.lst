@@ -1,0 +1,14 @@
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/PokemonbattleApplication.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/config/CorsConfig.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/config/DataLoader.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/contoller/BattleController.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/contoller/PokemonController.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/dto/AttackRequest.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/dto/BattleResult.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/dto/ErrorResponse.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/entity/Pokemon.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/exception/GlobalExceptionHandler.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/exception/PokemonNotFoundException.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/repository/PokemonRepo.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/service/BattleGround.java
+/Users/admin/Downloads/pokemonbattle/src/main/java/com/impact/pokemonbattle/service/PokemonCatalog.java
